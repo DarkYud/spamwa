@@ -5,7 +5,7 @@
 - $ pkg install python
 - $ pkg install git
 - $ python3 -m pip install requests
-- $ git clone https://github.com/Bilal-Andrian/Spam-Wa
+- $ git clone (https://github.com/DarkYud/spamwa/tree/main/spamwa)
 - $ cd Spam-Wa
 - $ python3 spam.py
 
