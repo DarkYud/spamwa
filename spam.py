@@ -204,7 +204,7 @@ def multi():
 def logo():
 	os.system('clear')
 
-	auth=m+'  Author : '+k+'Andrian,<<< Github:https://github.com/Bilal-Andrian,<<< Blog:https://foruminformasi.com'
+	auth=m+'  Author : '+k+'YogiHidden,<<< Github https://github.com/DarkYud/spamwa/tree/main/spamwa,<<< https://www.youtube.com/@yogihidden6185'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
 %s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
