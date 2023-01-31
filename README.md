@@ -32,7 +32,7 @@ Script Ini GRATIS buat kalian dan tidak di ENCRYPT. Mengapa? Supaya kalian bisa 
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/FatihArridho/brutal.git
+git clone https://github.com/DarkYud/spamwa
 cd brutal
 pip install -r install.txt
 python brutal.py
@@ -43,7 +43,7 @@ python brutal.py
 apt update && apt upgrade
 apt install git -y
 apt install python3-pip
-git clone https://github.com/FatihArridho/brutal.git
+git clone https://github.com/DarkYud/spamwa
 cd brutal
 pip3 install -r install.txt
 python3 brutal.py
